@@ -1043,3 +1043,16 @@ h4 {
 .relative{
     position: relative;
 }
+
+.citation{
+    font-size: 18px;
+    font-style: italic;
+    color: #5c5c5c !important;
+    margin-bottom: 0;
+}
+
+.citation_author{
+    font-size: 16px;
+    color: #5c5c5c !important;
+    margin-top: 0;
+}
