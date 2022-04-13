@@ -478,6 +478,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    width: 48px;
 }
 
 .icon-lg {
@@ -1065,4 +1066,8 @@ h4 {
 
 a:focus{
     border: dashed 2px black  ;
+}
+
+.touch-size{
+    padding: 20px;
 }
