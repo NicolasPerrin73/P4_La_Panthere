@@ -510,6 +510,7 @@ button {
 .form-control {
     border-color: rgba(0, 0, 0, .1);
     box-shadow: none;
+    height: 50px;
 }
 
 .scrollToTop {
