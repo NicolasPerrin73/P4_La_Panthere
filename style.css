@@ -743,6 +743,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    width: 100%;
+    height: 100%;
 }
 
 .portfolio-row {
@@ -1067,9 +1069,4 @@ a:focus{
 
 .touch-size{
     padding: 20px;
-}
-
-.img-size{
-    width: 100%;
-    height: 100%;
 }
