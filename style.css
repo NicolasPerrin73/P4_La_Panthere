@@ -303,7 +303,7 @@ a:hover {
 
 .navbar-brand img {
     height: 40px;
-    width: auto;
+    width: 217px;
     margin: 0 5px 0 0;
     display: inline;
 }
@@ -1060,7 +1060,7 @@ h4 {
 
 .image-resize-mode{
     width: 100px;
-    height: auto;
+    height: 100px;
 }
 
 a:focus{
